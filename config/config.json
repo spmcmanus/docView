@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/docView/DocViewWebPart.js",
+      "manifest": "./src/webparts/docView/DocViewWebPart.manifest.json",
+      "outputPath": "./dist/doc-view.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "docViewStrings": "webparts/docView/loc/{locale}.js"
+  }
+}

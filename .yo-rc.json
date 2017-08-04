@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "doc-view",
+    "libraryId": "e3b1d81d-640e-4481-b594-09cb9f67dd29",
+    "environment": "spo"
+  }
+}

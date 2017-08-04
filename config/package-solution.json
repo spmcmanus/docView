@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "doc-view-client-side-solution",
+    "id": "e3b1d81d-640e-4481-b594-09cb9f67dd29",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/doc-view.sppkg"
+  }
+}
